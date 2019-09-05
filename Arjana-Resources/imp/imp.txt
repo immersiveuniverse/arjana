@@ -1,0 +1,2 @@
+keystore - adsoKeystore@008
+key -	adsoArjana@008
